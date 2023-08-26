@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div {
+  height: 100vh;
+  width: 100%;
+  font-size: 80px;
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.first {
+  background-color: rgb(156, 66, 66);
+  position: fixed;
+  transform: translateY(-25%);
+}
+.second {
+  background-color: rgb(65, 65, 150);
+}
+.third {
+  background-color: rgb(85, 97, 97);
+}
+.fourth {
+  background-color: rgb(182, 148, 86);
+}
